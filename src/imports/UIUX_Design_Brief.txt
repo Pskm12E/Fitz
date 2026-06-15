@@ -1,0 +1,29 @@
+# UI/UX Design Brief: AI-Powered Wardrobe & Outfit Planner
+
+## 1. Design Vision & Vibe
+The application should feel soft, inviting, and modern. The design avoids the stark, clinical feel of traditional utility apps by adopting a warm, pastel-forward aesthetic. It should evoke the feeling of a high-end, personalized digital boutique while remaining highly usable for daily wardrobe management.
+
+## 2. Color Palette (Lavender Pastel Theme)
+Based on the provided reference palette, the application will use a soothing, monochromatic lavender color scheme to create a cohesive and relaxing user experience.
+
+- **Primary Color (Brand Character):** Soft Purple (`#A98BE3`) - Used for primary buttons, active states, and key highlights.
+- **Secondary Accent:** Lighter Lilac (`#CDB7F6`) - Used for secondary buttons, category chips, and subtle highlights.
+- **Background (Base):** Pale Lavender Tint (`#E9D9FF`) - Used for main app backgrounds and large surface areas to create a soft base.
+- **Card/Surface Background:** Off-White/Cool Tint (`#F6F2FF`) - Used for product cards, floating panels, and text input fields to ensure high contrast and readability against the pastel background.
+- **Typography & Deep Contrast:** Deep Eggplant/Dark Plum (`#4B3B61`) - Used for primary text, deep shadows, and high-contrast UI elements (like the bottom navigation bar) to ground the pastel theme without resorting to harsh black.
+
+## 3. Thematic UI/UX Execution (Based on Reference UI)
+The interface should utilize modern, rounded, and floating elements to maintain the soft aesthetic shown in the reference screens.
+
+- **Typography:** Bold, clean sans-serif headers (e.g., "Welcome to 2026 Fashion Style") contrasted with highly legible, lighter sans-serif body text in the deep plum color (`#4B3B61`).
+- **Card Design:** Clothing items and outfits should be displayed on large, rounded-corner cards with soft drop shadows, making them appear to float above the background. The card backgrounds should match the primary or secondary pastel tones.
+- **Imagery Presentation:** Clothing items (like the pink hoodie in the reference) should feature clean, background-removed images presented centrally on the pastel cards to make the item pop.
+- **Navigation & Controls:** 
+  - The bottom navigation bar should be a floating, pill-shaped element using the dark contrast color (`#4B3B61`) with subtle, rounded icons.
+  - Category filters (Casual, Business, Sport) should use circular icons or pill-shaped chips horizontally scrollable at the top.
+  - Buttons (like "Add to cart" or "Generate Outfit") should be fully rounded (pill-shaped) using the dark contrast color for high visibility.
+
+## 4. Key Screen Applications
+- **Onboarding/Home Dashboard:** A welcoming header with horizontal scrolling categories and large, featured outfit suggestion cards dominating the center screen.
+- **Digital Wardrobe/Inventory:** A clean grid layout of clothing items, utilizing the off-white (`#F6F2FF`) cards against the pale lavender background.
+- **Outfit Details/Try-On:** A focused screen showcasing the selected outfit or item in the center, with size, color, and description details cleanly organized below, featuring a prominent, high-contrast action button.
